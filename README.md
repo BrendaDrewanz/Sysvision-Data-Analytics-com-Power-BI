@@ -1,3 +1,3 @@
-# power_bi_analyst
+# Sysvision - Data Analytics com Power BI
 
-Repositório relacionado a formação de Power BI Analyst
+Repositório relacionado aos desafios concluídos no Bootcamp Sysvision Data Analytics com Power BI.
